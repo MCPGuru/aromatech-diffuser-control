@@ -1,0 +1,6 @@
+*creds*.json
+*-state.json
+*.log
+__pycache__/
+.venv*/
+node_modules/

@@ -1,0 +1,21 @@
+{
+  "name": "homebridge-aromalink-diffuser",
+  "version": "1.0.0",
+  "description": "Homebridge tile (on/off, intensity, timed run) for Aroma-Link family scent diffusers such as the AromaTech Ambience",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin",
+    "aroma-link",
+    "aromatech",
+    "diffuser"
+  ],
+  "engines": {
+    "node": ">=16.0.0",
+    "homebridge": ">=1.6.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCPGuru/aromatech-diffuser-control.git"
+  }
+}
